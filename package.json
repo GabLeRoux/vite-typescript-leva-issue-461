@@ -6,6 +6,7 @@
     "build": "tsc && vite build"
   },
   "dependencies": {
+    "leva": "^0.9.35",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
